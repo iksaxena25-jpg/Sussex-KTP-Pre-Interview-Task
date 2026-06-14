@@ -1,0 +1,6 @@
+KTP_task_datasets.xls
+*.xls
+*.xlsx
+.venv/
+__pycache__/
+.ipynb_checkpoints/
